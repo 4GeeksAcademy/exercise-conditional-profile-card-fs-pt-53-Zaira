@@ -42,8 +42,8 @@ function render(variables = {}) {
             "https://twitter.com/4geeksacademy"}"><i class="fab fa-twitter"></i></a></li>
             <li><a href="https://github.com/${variables.github ||
               "https://github.com/4geeksacademy"}"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://linkedin.com/${variables.linkedin ||
-              "https://linkedin.com/school/4geeksacademy"}"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://linkedin.com/in/${variables.linkedin ||
+              "https://linkedin.com/in/school/4geeksacademy"}"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${variables.instagram ||
               "https://instagram.com/4geeksacademy"}"><i class="fab fa-instagram"></i></a></li>
           </ul>
